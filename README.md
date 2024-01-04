@@ -1,9 +1,16 @@
 Our Member Group :
 Faradhisa Aldina Putri / 2141720159
+
 Raihan Dany Radhinnur / 2141720166
+
 Satria Pangestu Adilamsyah / 2141720161
+
 Thoriq  Irfan Falach / 2141720234
+
 Zerlina Putri Wollwage / 2141720146
+
+
+
 
 This The Link Paper for this project
 https://drive.google.com/file/d/1f_jqhJnpT7XAqgLRuRmmlCpWQtUTrlo9/view?usp=drive_link 
