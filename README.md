@@ -1,4 +1,5 @@
-Our Member Group :
+# Our Member Group :
+
 Faradhisa Aldina Putri / 2141720159
 
 Raihan Dany Radhinnur / 2141720166
@@ -12,12 +13,12 @@ Zerlina Putri Wollwage / 2141720146
 
 
 
-This The Link Paper for this project
+# This The Link Paper for this project
 https://drive.google.com/file/d/1f_jqhJnpT7XAqgLRuRmmlCpWQtUTrlo9/view?usp=drive_link 
 
 
 
-# ScanYCV is a mobile-based scanning application that utilizes OCR to recognize characters in images. Additionally, it offers various features, including classification in its curriculum vitae (CV), such as name, education, and experience.
+ScanYCV is a mobile-based scanning application that utilizes OCR to recognize characters in images. Additionally, it offers various features, including classification in its curriculum vitae (CV), such as name, education, and experience.
 
 SPLASH
 ![Screenshot_20240104-172449](https://github.com/satria080503/CV_SCAN_APP/assets/92170349/0f8e017e-d60f-4af4-a14d-c4a4acd1a3c5)
