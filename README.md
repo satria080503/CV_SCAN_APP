@@ -21,6 +21,27 @@ https://drive.google.com/file/d/1f_jqhJnpT7XAqgLRuRmmlCpWQtUTrlo9/view?usp=drive
 ScanYCV is a mobile-based scanning application that utilizes OCR to recognize characters in images. Additionally, it offers various features, including classification in its curriculum vitae (CV), such as name, education, and experience.
 
 
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/satria080503/CV_SCAN_APP.git
+   ```
+2. Install packages
+   ```sh
+   flutter pub 
+   ```
+3. Add UCropActivity into your AndroidManifest.xml (to use image cropper)
+   ```sh
+   <activity
+    android:name="com.yalantis.ucrop.UCropActivity"
+    android:screenOrientation="portrait"
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+   ```
+
+
+
 SPLASH
 
 ![Screenshot_20240104-172449](https://github.com/satria080503/CV_SCAN_APP/assets/92170349/0f8e017e-d60f-4af4-a14d-c4a4acd1a3c5)
@@ -51,21 +72,3 @@ THE HISTORY FEATURE
 
 ![Screenshot_20240104-172458](https://github.com/satria080503/CV_SCAN_APP/assets/92170349/ad6fbc74-082b-438a-bd3b-eb316d428471)
 
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/satria080503/CV_SCAN_APP.git
-   ```
-2. Install packages
-   ```sh
-   flutter pub 
-   ```
-3. Add UCropActivity into your AndroidManifest.xml (to use image cropper)
-   ```sh
-   <activity
-    android:name="com.yalantis.ucrop.UCropActivity"
-    android:screenOrientation="portrait"
-    android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
-   ```
